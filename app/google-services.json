@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "846726918137",
+    "firebase_url": "https://curso-android-firebase-187fa.firebaseio.com",
+    "project_id": "curso-android-firebase-187fa",
+    "storage_bucket": "curso-android-firebase-187fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846726918137:android:b1a1b4a8c2ffe9e1cf9728",
+        "android_client_info": {
+          "package_name": "com.cursos.holafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846726918137-mf50s930rcbejo6f7qpp770t5o4205hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDf65-kqWm3-w91vZr06tdRzeU3KNIyxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846726918137-mf50s930rcbejo6f7qpp770t5o4205hh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
